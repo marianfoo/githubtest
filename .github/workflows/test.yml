@@ -1,10 +1,5 @@
 name: Trigger Another Workflow
 
-permissions:
-  actions: write
-  contents: write
-
-
 on:
   workflow_dispatch:
 
